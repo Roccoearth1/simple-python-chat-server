@@ -5,3 +5,4 @@ At this point there is no client code, but the server is still usable without on
 
 
 I wrote this, server to get a better undersanding of socket programming. Most of the code is from [here](http://www.binarytides.com/code-chat-application-server-client-sockets-python/). I made it a bit more functinal and a bit more structured. 
+[![Run on Repl.it](https://repl.it/badge/github/alexwhb/simple-python-chat-server)](https://repl.it/github/alexwhb/simple-python-chat-server)
